@@ -7,4 +7,4 @@ DataVizForAll.org story template using modified Bootstrap
 https://atran311.github.io/Anna-Build-Story/
 
 ## Instructions
-Read steps inside the `index.html` file
+Read steps inside the `portfolio.html` file
